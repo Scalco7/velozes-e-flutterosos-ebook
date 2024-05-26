@@ -1,32 +1,40 @@
-# velozes-e-flutterosos-ebook
+# Velozes e Flutterosos
+
+![capa](https://github.com/Scalco7/velozes-e-flutterosos-ebook/assets/87811238/ddcc0a7e-2ab9-438b-b365-92a83bbdf57c)
 
 Projeto EBOOK Gerado por I.A.s
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-📕Clique aqui para ler
+💻 Tecnologias utilizadas no projeto: 
+ - ChatGPT
+ - Copilot
+ - PowerPoint
 
-💻 Tecnologias utilizadas no projeto
-ChatGPT
-Copilot
-PowerPoint
-🧠 Prompts
-ChatGPT：
+🧠 Prompts ChatGPT：
 
-Ação	prompt
-título	Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos
-conteúdo	Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
-Midjourney：
+Título: 
+ - Crie um título de um ebook sobre o tema de flutter, o ebook é do nicho de programação e o subnicho é do framework flutter, o título deve ser criativo e curto, e ter uma temática de velozes e furisos 1 no título, me liste 5 variações de títulos
 
-Ação	prompt
-título	A jedi in meditation pose, with your blue lightsaber floating, pixel art style
+Capitulos:
+ - Crie a estrutura de um ebook, sobre os fundamentos do Flutter, divida em capitulos e subcapitulos
+
+Capitulos:	
+ - 1
+ - 2
+ - 2
+ - 2
+
+
+Copilot：
+ - Desenhe uma capa para um ebook. A capa deve retratar um skyline em alta velocidade, derrapando em uma rua urbana noturna, com pneus deixando rastros de fumaça. O carro deve ter o logo do Flutter no capô, brilhando sob as luzes da cidade. Ao redor do carro, faíscas voam pelo ar, adicionando dinamismo à cena. O fundo da capa deve mostrar arranha-céus iluminados por luzes. A capa deve ter o estilo do filme "Velozes e Furiosos 1"
 
 ✨ Features
-Conteúdo gerado via ChatGPT
-Imagens geradas via Copilot
-📚 Materiais
-Imagens utilizadas em assets
-ebook gerado durante as aulas em output
+ - Conteúdo gerado via ChatGPT
+ - Imagens geradas via Copilot
 
-👨‍💻 Expert
-Felipe Maciel Scalco
+📚 Materiais
+ - Imagens utilizadas em assets
+ - ebook gerado durante as aulas em output
+
+👨‍💻 Expert:  Felipe Maciel Scalco
