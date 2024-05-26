@@ -20,10 +20,13 @@ Capitulos:
  - Crie a estrutura de um ebook, sobre os fundamentos do Flutter, divida em capitulos e subcapitulos
 
 Capitulos:	
- - 1
- - 2
- - 2
- - 2
+ - me faça um texto para ebook, com foco em programaçao, explicando o [CONTEÚDO DO CAPÍTULO], com um tom de voz senior
+
+{REGRAS}
+>Explique sempre de maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de código em contextos reais
+>Sempre deixe um título sugestivo por tópico
 
 
 Copilot：
